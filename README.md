@@ -59,5 +59,3 @@ http://localhost:5173
 ```
 npm run cy:test
 ```
-
-編輯～～
