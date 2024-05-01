@@ -1,7 +1,6 @@
 {
   "cSpell.words": [
     "fastify",
-    "todos",
-  ],
-  "files.autoSave": "onFocusChange"
+    "todos"
+  ]
 }
